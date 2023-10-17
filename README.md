@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ditrick</h1>
 <h3 align="center">Back-end and Mobile</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1290/1*ii-gY4avnTCGLL5-BNcGhQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelditrick&label=Profile%20views&color=0e75b6&style=flat" alt="michaelditrick" /> </p>
 
