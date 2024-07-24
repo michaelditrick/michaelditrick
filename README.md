@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/michaelditrick" target="blank"><img src="https://img.shields.io/twitter/follow/michaelditrick?logo=twitter&style=for-the-badge" alt="michaelditrick" /></a> </p>
 
-- 🔭 I’m currently working on **Payment API**
+- 🔭 I’m currently working on **Security API**
 
-- 🌱 I’m currently learning **SwiftUI & Ios Dev**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Android & Backend Technologies**
+- 💬 Ask me about **Cloud & Backend Technologies**
 
-- 📫 How to reach me **michaelmwalongo26@gmail.com**
+- 📫 How to reach me **ditrick04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
