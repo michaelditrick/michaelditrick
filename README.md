@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Cloud & Backend Technologies**
+- 💬 Ask me about **Security, ML  & Backend Technologies**
 
 - 📫 How to reach me **ditrick04@gmail.com**
 
