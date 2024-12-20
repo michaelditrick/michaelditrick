@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/michaelditrick" target="blank"><img src="https://img.shields.io/twitter/follow/michaelditrick?logo=twitter&style=for-the-badge" alt="michaelditrick" /></a> </p>
 
-- 🔭 I’m currently working on **Security API**
-
-- 🌱 I’m currently learning **Devops**
+- 🔭 I’m currently working on **Security APIs and SaaS**
 
 - 💬 Ask me about **Security, ML  & Backend Technologies**
 
