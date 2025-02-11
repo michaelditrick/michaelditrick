@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Security, ML  & Backend Technologies**
 
-- 📫 How to reach me X  **@michaelditrick**
+- 📫 How to reach me: X -> **@michaelditrick**
 
 
 
